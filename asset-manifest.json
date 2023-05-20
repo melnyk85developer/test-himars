@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/test-himars/static/css/main.ea695a57.css",
-    "main.js": "/test-himars/static/js/main.700c57b3.js",
+    "main.js": "/test-himars/static/js/main.af5ff059.js",
     "static/media/loader.gif": "/test-himars/static/media/loader.b2a8fa3d8baba9fc720f.gif",
     "static/media/fon_avatars.png": "/test-himars/static/media/fon_avatars.76e609f2cfba0175db7b.png",
     "static/media/R_center_Sidebar.png": "/test-himars/static/media/R_center_Sidebar.0f8d154b371121f422bd.png",
@@ -14,10 +14,10 @@
     "static/media/L_Top_Sidebar.png": "/test-himars/static/media/L_Top_Sidebar.89c5a7400ca35de68434.png",
     "index.html": "/test-himars/index.html",
     "main.ea695a57.css.map": "/test-himars/static/css/main.ea695a57.css.map",
-    "main.700c57b3.js.map": "/test-himars/static/js/main.700c57b3.js.map"
+    "main.af5ff059.js.map": "/test-himars/static/js/main.af5ff059.js.map"
   },
   "entrypoints": [
     "static/css/main.ea695a57.css",
-    "static/js/main.700c57b3.js"
+    "static/js/main.af5ff059.js"
   ]
 }
